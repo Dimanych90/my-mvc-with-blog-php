@@ -1,0 +1,31 @@
+<?php
+
+use App\Controller\Index;
+
+use Base\Db;
+
+
+
+$index = new Index();
+
+
+
+
+
+
+$db = Db::instance();
+
+
+if ($db->getFetch()) {
+    echo "You have already registered and you need to authorized ";
+
+    die();
+}elseif (!$db->getFetch()){
+    $index->insertAction();
+    echo "You have just registered";
+}
+
+
+
+
+

@@ -1,0 +1,19 @@
+<?php
+//use Base\ControllerUser;
+use Base\Db;
+use Base\Controller;
+use Base\Session;
+$contr = new Controller();
+
+$db =  \Base\Db::instance();
+
+
+
+
+
+
+if (!$db->getFetch()){
+    echo "Wrong login or password";
+//    sleep(5);
+}
+$contr->redirect('/Index/register');

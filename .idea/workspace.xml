@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc8af88e-16b0-4fdd-99c3-f6942a946107" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="ee4e5bc6-ad30-4f3b-b6c8-9f9dbb3bf240" />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="mymvc" id="2d4863b8-399e-468d-868f-6e7e2948dfcf" name="mymvc" />
+    </servers>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.5">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gjRyalIHPihsa0SKk2UyIxOfpv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Constants" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="DotEnv&#10;GitIgnore" />
+    <property name="dumpAutoload C:/progs/OpenServer/domains/mymvc/composer.json" value="--no-interaction --ansi --verbose --classmap-authoritative" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\progs\OpenServer\domains\mymvc" />
+      <recent name="C:\progs\OpenServer\domains\mymvc\App\tamplates\index" />
+      <recent name="C:\progs\OpenServer\domains\mymvc\App\tamplates" />
+      <recent name="C:\progs\OpenServer\domains\mymvc\App\Controller" />
+      <recent name="C:\progs\OpenServer\domains\mymvc\App\tamplates\registr" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc8af88e-16b0-4fdd-99c3-f6942a946107" name="Default Changelist" comment="" />
+      <created>1598626270581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598626270581</updated>
+      <workItem from="1598626271808" duration="11759000" />
+      <workItem from="1598655410119" duration="81000" />
+      <workItem from="1598727086338" duration="2605000" />
+      <workItem from="1598781479950" duration="164000" />
+      <workItem from="1598896579327" duration="7801000" />
+      <workItem from="1598989030299" duration="3689000" />
+      <workItem from="1598993509973" duration="590000" />
+      <workItem from="1599080385526" duration="2298000" />
+      <workItem from="1599085782445" duration="2740000" />
+      <workItem from="1599147910331" duration="8016000" />
+      <workItem from="1599169690812" duration="2912000" />
+      <workItem from="1599234261491" duration="11132000" />
+      <workItem from="1599316003653" duration="7937000" />
+      <workItem from="1599334703533" duration="148000" />
+      <workItem from="1599418102451" duration="333000" />
+      <workItem from="1599419571561" duration="1103000" />
+      <workItem from="1599506306527" duration="52000" />
+      <workItem from="1599507036347" duration="1772000" />
+      <workItem from="1599663939412" duration="2811000" />
+      <workItem from="1599681696049" duration="551000" />
+      <workItem from="1599773821616" duration="25000" />
+      <workItem from="1600000827672" duration="3795000" />
+      <workItem from="1600009933431" duration="2160000" />
+      <workItem from="1600090405033" duration="6012000" />
+      <workItem from="1600278996787" duration="5282000" />
+      <workItem from="1600349438939" duration="2462000" />
+      <workItem from="1600372419496" duration="4469000" />
+      <workItem from="1600379685190" duration="2448000" />
+      <workItem from="1600383595677" duration="312000" />
+      <workItem from="1600429980707" duration="6459000" />
+      <workItem from="1600440797988" duration="4868000" />
+      <workItem from="1600535956535" duration="8216000" />
+      <workItem from="1600626646800" duration="2747000" />
+      <workItem from="1600694873435" duration="5482000" />
+      <workItem from="1600795391516" duration="4018000" />
+      <workItem from="1600863933696" duration="8170000" />
+      <workItem from="1601038962219" duration="5580000" />
+      <workItem from="1601053494945" duration="3933000" />
+      <workItem from="1601058393334" duration="266000" />
+      <workItem from="1601127013871" duration="6602000" />
+      <workItem from="1601325722716" duration="3350000" />
+      <workItem from="1601408517190" duration="6127000" />
+      <workItem from="1601467058784" duration="1990000" />
+      <workItem from="1601494459536" duration="3261000" />
+      <workItem from="1601560863969" duration="10272000" />
+      <workItem from="1601585508195" duration="2590000" />
+      <workItem from="1601627987951" duration="18002000" />
+      <workItem from="1601737721026" duration="6695000" />
+      <workItem from="1601811899143" duration="7034000" />
+      <workItem from="1601844868032" duration="3420000" />
+      <workItem from="1601890037977" duration="210000" />
+      <workItem from="1601902173255" duration="7898000" />
+      <workItem from="1601978489600" duration="9747000" />
+      <workItem from="1602000113959" duration="564000" />
+      <workItem from="1602009273837" duration="1490000" />
+      <workItem from="1602010816004" duration="252000" />
+      <workItem from="1602070875367" duration="1265000" />
+      <workItem from="1602080854124" duration="7805000" />
+      <workItem from="1602093740576" duration="51000" />
+      <workItem from="1602182528981" duration="613000" />
+      <workItem from="1602258002570" duration="10472000" />
+      <workItem from="1602274498480" duration="3935000" />
+      <workItem from="1602338914073" duration="5568000" />
+      <workItem from="1602347988379" duration="5557000" />
+      <workItem from="1602509429217" duration="9969000" />
+      <workItem from="1602538477600" duration="3148000" />
+      <workItem from="1602703553244" duration="1202000" />
+      <workItem from="1602768648067" duration="16000" />
+      <workItem from="1602772313072" duration="1879000" />
+      <workItem from="1602852480169" duration="5954000" />
+      <workItem from="1603057682563" duration="2993000" />
+      <workItem from="1603101556143" duration="2575000" />
+      <workItem from="1603110946539" duration="992000" />
+      <workItem from="1603139551138" duration="1234000" />
+      <workItem from="1603140809538" duration="2521000" />
+      <workItem from="1603190325055" duration="2091000" />
+      <workItem from="1603195134134" duration="1936000" />
+      <workItem from="1603275088381" duration="6702000" />
+      <workItem from="1603289668017" duration="5701000" />
+      <workItem from="1603373341533" duration="12000" />
+      <workItem from="1603398761331" duration="121000" />
+      <workItem from="1603398961390" duration="22000" />
+      <workItem from="1603403732979" duration="137000" />
+      <workItem from="1603556037309" duration="1437000" />
+      <workItem from="1603566540242" duration="253000" />
+      <workItem from="1603566989301" duration="325000" />
+      <workItem from="1603577128215" duration="224000" />
+      <workItem from="1603577376454" duration="25000" />
+      <workItem from="1604365746491" duration="38000" />
+      <workItem from="1605075925058" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="115" y="0" key="#CLI_Interpreters" timestamp="1601890142672">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="115" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1601890142672" />
+    <state x="267" y="19" key="#Inspections" timestamp="1602343890307">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1602343890307" />
+    <state x="390" y="165" key="#Notifications" timestamp="1600440841039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="165" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1600440841039" />
+    <state x="80" y="182" key="#SQL_Dialects" timestamp="1600380125250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="80" y="182" key="#SQL_Dialects/0.0.1280.680@0.0.1280.680" timestamp="1600380125250" />
+    <state x="223" y="0" key="#SSH_Configurations" timestamp="1598633914134">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="223" y="0" key="#SSH_Configurations/0.0.1280.680@0.0.1280.680" timestamp="1598633914134" />
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601412000652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601412000652" />
+    <state x="397" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600004157964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1600004157964" />
+    <state x="435" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1601418748036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1601418748036" />
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603103397120">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603103397120" />
+    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1598993224243">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1598993224243" />
+    <state x="399" y="200" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601638655147">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="200" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1601638655147" />
+    <state x="454" y="223" key="ComposerDumpAutoloadDialog" timestamp="1598634968468">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="454" y="223" key="ComposerDumpAutoloadDialog/0.0.1280.680@0.0.1280.680" timestamp="1598634968468" />
+    <state x="418" y="223" width="444" height="307" key="ComposerInitDialogKey" timestamp="1600430529693">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="418" y="223" width="444" height="307" key="ComposerInitDialogKey/0.0.1280.680@0.0.1280.680" timestamp="1600430529693" />
+    <state width="402" height="466" key="DebuggerActiveHint" timestamp="1603291884898">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="402" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1603291884898" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1603577399137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603577399137" />
+    <state width="1237" height="204" key="GridCell.Tab.-1.bottom" timestamp="1602091287934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.-1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602091287934" />
+    <state width="1237" height="204" key="GridCell.Tab.-1.center" timestamp="1602091287934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.-1.center/0.0.1280.680@0.0.1280.680" timestamp="1602091287934" />
+    <state width="1237" height="204" key="GridCell.Tab.-1.left" timestamp="1602091287934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.-1.left/0.0.1280.680@0.0.1280.680" timestamp="1602091287934" />
+    <state width="1237" height="204" key="GridCell.Tab.-1.right" timestamp="1602091287934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.-1.right/0.0.1280.680@0.0.1280.680" timestamp="1602091287934" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1603567316256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603567316256" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1603567316256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603567316256" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1603567316256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603567316256" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1603567316256">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603567316256" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="189" key="GridCell.Tab.2.bottom" timestamp="1603567316258">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603567316258" />
+    <state width="1237" height="189" key="GridCell.Tab.2.center" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="189" key="GridCell.Tab.2.left" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="189" key="GridCell.Tab.2.right" timestamp="1603567316257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1603567316257" />
+    <state width="1237" height="204" key="GridCell.Tab.3.bottom" timestamp="1600896736867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600896736867" />
+    <state width="1237" height="204" key="GridCell.Tab.3.center" timestamp="1600896736867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1600896736867" />
+    <state width="1237" height="204" key="GridCell.Tab.3.left" timestamp="1600896736867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1600896736867" />
+    <state width="1237" height="204" key="GridCell.Tab.3.right" timestamp="1600896736867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1600896736867" />
+    <state x="440" y="64" key="NewPhpClassDialog" timestamp="1601467804877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="440" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1601467804877" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1601845612715">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1601845612715" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1601890152350">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1601890152350" />
+    <state x="35" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1600443652137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="35" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600443652137" />
+    <state x="390" y="85" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1600005348205">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="85" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1600005348205" />
+    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1598897529447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1598897529447" />
+    <state x="333" y="174" key="jetbrains.nodejs.interpreters-dialog" timestamp="1600432490286">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="174" key="jetbrains.nodejs.interpreters-dialog/0.0.1280.680@0.0.1280.680" timestamp="1600432490286" />
+    <state x="359" y="112" key="refactoring.ChangeSignatureDialog" timestamp="1602266902624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="359" y="112" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1602266902624" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602353875147">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602353875147" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controller/Muser.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Db.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/registered.phtml</url>
+          <line>13</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/login.phtml</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/login.phtml</url>
+          <line>14</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/login.phtml</url>
+          <line>17</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Model/Factory.php</url>
+          <line>135</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Model/Factory.php</url>
+          <line>87</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>80</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>107</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>102</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Controller.php</url>
+          <line>67</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>58</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>59</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>60</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/index.phtml</url>
+          <line>26</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/index.phtml</url>
+          <line>27</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/index.phtml</url>
+          <line>28</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/tamplates/index/index.phtml</url>
+          <line>30</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Db.php</url>
+          <line>234</line>
+          <properties>
+            <option name="className" value="\Base\Db" />
+            <option name="methodName" value="getLog" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Db.php</url>
+          <line>195</line>
+          <properties>
+            <option name="className" value="\Base\Db" />
+            <option name="methodName" value="exece" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Model/Factory.php</url>
+          <line>29</line>
+          <properties>
+            <option name="className" value="\Base\Model\Factory" />
+            <option name="methodName" value="getById" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>22</line>
+          <properties>
+            <option name="className" value="\App\Controller\Index" />
+            <option name="methodName" value="indexAction" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>124</line>
+          <properties>
+            <option name="className" value="\App\Controller\Index" />
+            <option name="methodName" value="loginAction" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Muser.php</url>
+          <line>15</line>
+          <properties>
+            <option name="className" value="\App\Controller\Muser" />
+            <option name="methodName" value="userAction" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>43</line>
+          <properties>
+            <option name="className" value="\App\Controller\Index" />
+            <option name="methodName" value="sendPostAction" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Model/Factory.php</url>
+          <line>63</line>
+          <properties>
+            <option name="className" value="\Base\Model\Factory" />
+            <option name="methodName" value="getByIds" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/User.php</url>
+          <line>131</line>
+          <properties>
+            <option name="className" value="\App\Model\User" />
+            <option name="methodName" value="userauthorize" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/Posts.php</url>
+          <line>87</line>
+          <properties>
+            <option name="className" value="\App\Model\Posts" />
+            <option name="methodName" value="initByDBData" />
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/ControllerUser.php</url>
+          <line>9</line>
+          <properties>
+            <option name="className" value="\Base\ControllerUser" />
+            <option name="methodName" value="preAction" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Model/Factory.php</url>
+          <line>107</line>
+          <properties>
+            <option name="className" value="\Base\Model\Factory" />
+            <option name="methodName" value="getList" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/User.php</url>
+          <line>42</line>
+          <properties>
+            <option name="className" value="\App\Model\User" />
+            <option name="methodName" value="getId" />
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/Posts.php</url>
+          <line>36</line>
+          <properties>
+            <option name="className" value="\App\Model\Posts" />
+            <option name="methodName" value="getUserId" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/User.php</url>
+          <line>124</line>
+          <properties>
+            <option name="className" value="\App\Model\User" />
+            <option name="methodName" value="initByData" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>75</line>
+          <properties>
+            <option name="className" value="\App\Controller\Index" />
+            <option name="methodName" value="registeredAction" />
+          </properties>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/User.php</url>
+          <line>156</line>
+          <properties>
+            <option name="className" value="\App\Model\User" />
+            <option name="methodName" value="fetchOne" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/User.php</url>
+          <line>115</line>
+          <properties>
+            <option name="className" value="\App\Model\User" />
+            <option name="methodName" value="insert" />
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Controller/Index.php</url>
+          <line>100</line>
+          <properties>
+            <option name="className" value="\App\Controller\Index" />
+            <option name="methodName" value="createUserAction" />
+          </properties>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Controller.php</url>
+          <line>60</line>
+          <properties>
+            <option name="className" value="\Base\Controller" />
+            <option name="methodName" value="redirect" />
+          </properties>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Aplication.php</url>
+          <line>68</line>
+          <properties>
+            <option name="className" value="\Base\Aplication" />
+            <option name="methodName" value="run" />
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Aplication.php</url>
+          <line>53</line>
+          <properties>
+            <option name="className" value="\Base\Aplication" />
+            <option name="methodName" value="iniUser" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Aplication.php</url>
+          <line>30</line>
+          <properties>
+            <option name="className" value="\Base\Aplication" />
+            <option name="methodName" value="ini" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>63</line>
+          <properties>
+            <option name="className" value="\Base\Session" />
+            <option name="methodName" value="check" />
+          </properties>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>79</line>
+          <properties>
+            <option name="className" value="\Base\Session" />
+            <option name="methodName" value="getUserId" />
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>37</line>
+          <properties>
+            <option name="className" value="\Base\Session" />
+            <option name="methodName" value="get" />
+          </properties>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Controller.php</url>
+          <line>65</line>
+          <properties>
+            <option name="className" value="\Base\Controller" />
+            <option name="methodName" value="p" />
+          </properties>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Model/ModelAbstract.php</url>
+          <line>17</line>
+          <properties>
+            <option name="className" value="\Base\Model\ModelAbstract" />
+            <option name="methodName" value="initByDBData" />
+          </properties>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>49</line>
+          <properties>
+            <option name="className" value="\Base\Session" />
+            <option name="methodName" value="save" />
+          </properties>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Request.php</url>
+          <line>67</line>
+          <properties>
+            <option name="className" value="\Base\Request" />
+            <option name="methodName" value="getUserAgent" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Session.php</url>
+          <line>31</line>
+          <properties>
+            <option name="className" value="\Base\Session" />
+            <option name="methodName" value="set" />
+          </properties>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/Base/Request.php</url>
+          <line>56</line>
+          <properties>
+            <option name="className" value="\Base\Request" />
+            <option name="methodName" value="getIp" />
+          </properties>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/App/Model/Posts.php</url>
+          <line>95</line>
+          <properties>
+            <option name="className" value="\App\Model\Posts" />
+            <option name="methodName" value="initByData" />
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

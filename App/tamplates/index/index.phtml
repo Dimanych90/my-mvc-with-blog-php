@@ -1,0 +1,61 @@
+<?php
+//use App\Controller\Index;
+//$index = new Index();
+//use Base\ControllerUser;
+//
+//$contr = new ControllerUser();
+//$contr->preAction();
+/** @var \App\Model\Posts[] $posts */
+$posts = $this->posts;
+//var_dump($posts);
+/** @var \App\Model\User[] $users */
+$users = $this->users;
+//var_dump($users);die();
+?>
+<form enctype="multipart/form-data" action="index/sendPost" method="post">
+    Message:<br>
+    <label>
+        <textarea name="message" style="width: 250px; height: 100px;"></textarea>
+    </label><br>
+    Прикрепить картинку:<br>
+    <input name="userfile" type="file" /><br>
+    <input type="submit" value="Send">
+</form>
+<br>
+<br>
+
+<?php foreach ($posts as $post):  ?>
+<?php $user = $users[$post->getUserId()] ?? false ?>
+<?php if (!$user){continue;} ?>
+    <div class="post">
+        <span class="user">Сообщеие от <b><?= $user->getLogin(); ?></b> отправлено <?= $post->getDateTime(); ?></span>
+        <div class="message"><?= $post->getMessage(); ?></div>
+    </div>
+<? endforeach; ?>
+<br>
+<br>
+
+<style>
+    .post {
+        border: 1px solid grey;
+        margin-top: 10px;
+        padding: 5px;
+        width: 250px;
+    }
+
+    .user {
+        color: grey;
+        font-size: 11px;
+    }
+
+    .message {
+        margin-top: 5px;
+        padding-left: 5px;
+    }
+
+    .img {
+        width: 2px;
+        height: 60px;
+        border: 2px;
+    }
+</style>
